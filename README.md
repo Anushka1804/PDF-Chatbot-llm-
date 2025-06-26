@@ -1,3 +1,3 @@
 # PDF-Chatbot
-submits pdf extracts texts
-answers the questio askedfrom pdf
+# submits pdf extracts texts
+# answers the question asked from pdf
